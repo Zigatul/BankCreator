@@ -9,4 +9,4 @@ Program for creating banks from Starcraft 2 and updating banks signature.<br/> A
 8)VirusZ;<br />
 9)Wings of Liberty Coop;<br />
 10)Rainbow Six Сюнь Arena;<br />
-Available only in EU
+Available only in EU.
